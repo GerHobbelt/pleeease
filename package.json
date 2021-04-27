@@ -20,7 +20,7 @@
     "url": "https://github.com/iamvdo/pleeease"
   },
   "dependencies": {
-    "autoprefixer": "~6.0.0",
+    "autoprefixer": "~10.0.0",
     "browserslist": "~1.0.0",
     "caniuse-db": "~1.0.30000181",
     "commondir": "~1.0.0",
@@ -32,11 +32,11 @@
     "node-sass": "~3.4.0",
     "pixrem": "^3.0.0",
     "pleeease-filters": "^2.0.0",
-    "postcss": "^5.0.0",
-    "postcss-import": "^7.0.0",
+    "postcss": "^8.2.13",
+    "postcss-import": "^13.0.0",
     "postcss-opacity": "^3.0.0",
     "postcss-pseudoelements": "^3.0.0",
-    "postcss-url": "^5.0.0",
+    "postcss-url": "^10.0.0",
     "postcss-vmin": "^2.0.0",
     "stylus": "~0.52.0"
   },
