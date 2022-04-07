@@ -36,7 +36,7 @@
     "postcss-import": "^7.0.0",
     "postcss-opacity": "^3.0.0",
     "postcss-pseudoelements": "^3.0.0",
-    "postcss-url": "^5.0.0",
+    "postcss-url": "^6.0.0",
     "postcss-vmin": "^2.0.0",
     "stylus": "~0.52.0"
   },
